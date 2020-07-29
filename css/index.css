@@ -1,0 +1,22 @@
+[v-cloak] {
+display: none;
+}
+
+/* 左邊區域 */
+#skillDetail{height:30vh;}
+#monsterItemCarousel{height:10vh;}
+#monsterItemDetail{height:70vh;}
+
+/* 中間區域 */
+#monsterItemRelated{height:70vh;}
+#monsterItemSkillDetail{height:80vh;}
+
+
+/* 右邊區域 */
+#scorePoint{height:70vh;}
+
+
+
+#raceListDiv{height:80vh;}
+#potentialListDiv{height:80vh;}
+#skillListDiv{height:80vh;}
